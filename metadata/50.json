@@ -1,8 +1,8 @@
 {
     "name": "Test NFT #50",
     "description": "Special 3D NFT with World ID integration",
-    "image": "https://raw.githubusercontent.com/boorich/nft-metadata/main/images/50.png",
-    "animation_url": "https://raw.githubusercontent.com/boorich/nft-metadata/main/models/50.glb",
+    "image": "https://boorich.github.io/NFT_Metadata/images/50.png",
+    "animation_url": "https://boorich.github.io/NFT_Metadata/models/50.glb",
     "model_format": "glb",
     "attributes": [
       {
