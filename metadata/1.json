@@ -1,0 +1,17 @@
+{
+    "name": "Test NFT #1",
+    "description": "3D NFT with World ID integration",
+    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/nft-metadata/main/images/1.png",
+    "animation_url": "https://raw.githubusercontent.com/YOUR_USERNAME/nft-metadata/main/models/1.glb",
+    "model_format": "glb",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Model Type",
+        "value": "3D"
+      }
+    ]
+  }

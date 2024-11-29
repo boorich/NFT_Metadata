@@ -1,0 +1,17 @@
+{
+    "name": "Test NFT #50",
+    "description": "Special 3D NFT with World ID integration",
+    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/nft-metadata/main/images/50.png",
+    "animation_url": "https://raw.githubusercontent.com/YOUR_USERNAME/nft-metadata/main/models/50.glb",
+    "model_format": "glb",
+    "attributes": [
+      {
+        "trait_type": "Level",
+        "value": 50
+      },
+      {
+        "trait_type": "Model Type",
+        "value": "3D"
+      }
+    ]
+  }
